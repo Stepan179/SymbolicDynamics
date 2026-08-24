@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+ignore/
+chats/*/source/
+chats/*/vec/
+chats/*/topics/
+chats/*/units.jsonl
+chats/*/messages.jsonl
+chats/kruzhok/
